@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <!-- Created on Sat, 14 Dec 2019 20:51:06 GMT -->
+  <ShortName>npmjs</ShortName>
+  <Description>Build amazing things.</Description>
+  <Url type="text/html" method="get" template="https://www.npmjs.com/search?q={searchTerms}"/>
+  <Url type="application/x-suggestions+json" template="https://opensearch-suggestion-proxy.matteocorossigo95.now.sh/api/provider/npmjs?query={searchTerms}"/>
+  <Image width="16" height="16"> data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAAAklEQVR4AewaftIAAAFwSURBVO3BsU0bAAAF0ePLXcQAySCUiBUYh8piI0aw3DIATWrqSG7SkRmQXETne+/uHb6I1ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojagSu7f3zk/umJfN/ldOJyPnNNB67s/umJX6+v5Ps+j0cu5zPXNKI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiduDG/H5+5lp+PDzw8+WF/9mBG/Pn7Y1bMqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiduDKLqcTn8cjt+DvxwefxyPXcjmduLa7d/giWiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNqI2ojaiNq/wAyOCE14wqH5wAAAABJRU5ErkJggg==</Image>
+  <Developer>Giacomo Rossetto</Developer>
+  <InputEncoding>UTF-8</InputEncoding>
+  <moz:SearchForm>https://www.npmjs.com/</moz:SearchForm>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://raw.githubusercontent.com/Jackymancs4/opensearch/master/engines/npmjs/opensearch.xml"/>
+</OpenSearchDescription>
